@@ -11,13 +11,13 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
+  ['201154869468', '👑 Mystic - Creador 👑', true],
+  ['201154869468', '💫 Mystic - Collaborator 2 💫', true],
+  ['201154869468', '💫 Mystic - Collaborator 3 💫', true],
+  ['201154869468', '💫 Mystic - Collaborator 4 💫', true],
+  ['201154869468', '💫 Mystic - Collaborator 5 💫', true],
+  ['201154869468', '💫 Mystic - Collaborator 6 💫', true],
+  ['201154869468', '💫 Mystic - Rey Endymion 💫', false],
   ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
   ['59175655964', '💫 Mystic - By Alba070503 💫', true],
   ['393518398856','💫 Mystic - Tester Fabri115💫', true],
@@ -39,8 +39,8 @@ global.owner = [
   ['5219991402134']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['201154869468'];
+global.prems = ['201154869468'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
@@ -80,7 +80,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '5219993404349';
+global.nomorown = '201154869468';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
